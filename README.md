@@ -1,4 +1,4 @@
-# Skin CancerDetection :
+# Skin Cancer Detection :
 
 ## Objective : 
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
@@ -10,8 +10,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 4. PIL- v 7.1.2
 
 # Inferences: 
-- The overfitting issue significantly reduced on using drop out layer and data augmentation. 
-- The class rebalance helped in increasing the validation accuracy and removinf the overfitting problem.
+- The overfitting issue significantly reduced on using dropout layer and data augmentation. 
+- The class rebalance helped in increasing the validation accuracy and reducing the gap between train and validation accuracy. Thereby getting rid of the overfitting problem.
 
 # Contributions :
 This project is done individually. Project owner name is Pooja Ravi Shankar.
